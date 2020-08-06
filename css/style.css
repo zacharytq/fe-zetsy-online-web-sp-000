@@ -61,3 +61,8 @@ header a:hover {
 #about a {
   color:
 }
+
+footer {
+  text-align: right;
+  background: #fff;
+}
