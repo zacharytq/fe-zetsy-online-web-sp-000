@@ -24,6 +24,7 @@ body {
 h1 {
   font-family: 'Baskerville';
   font-size: 5em;
+  font-weight: normal;
 }
 
 header a {
