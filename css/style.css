@@ -21,6 +21,6 @@ body {
 }
 
 /* Write all remaining styles here */
-header {
+header a {
   font-family: 'Baskerville';
 }
