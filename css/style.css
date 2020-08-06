@@ -26,7 +26,8 @@ h1 {
   font-size: 5em;
   font-weight: normal;
   margin: 0 0 5px;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc
 }
 
 header a {
