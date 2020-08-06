@@ -30,6 +30,12 @@ h1 {
   border-bottom: 1px solid #ccc;
 }
 
+p {
+  font-size: 1em;
+  color: #555;
+  margin: 0 0 20px 0;
+}
+
 header a {
   text-decoration: none;
   color: rgb(152,173,166);
@@ -41,4 +47,8 @@ header a:hover {
 
 #about img {
   border: 5px solid #ccc;
+}
+
+#about a {
+  color: 
 }
