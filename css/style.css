@@ -21,6 +21,8 @@ body {
 }
 
 /* Write all remaining styles here */
-div.wrapper header h1 a {
+h1 {
   font-family: 'Baskerville';
 }
+
+header a
