@@ -33,7 +33,10 @@ h1 {
 header a {
   text-decoration: none;
   color: rgb(152,173,166);
+}
 
+header a:hover {
+  color: rgb(111,127,122);
 }
 
 #about img {
