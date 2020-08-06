@@ -55,7 +55,7 @@ header a:hover {
 }
 
 #about img {
-  border: 5px solid #ccc;
+  border: 5px solid rgb(152,173,166);
 }
 
 #about a {
@@ -63,7 +63,7 @@ header a:hover {
 }
 
 #press img {
-  border: 5px solid #ccc;
+  border: 5px solid rgb(152,173,166);
 }
 
 footer {
