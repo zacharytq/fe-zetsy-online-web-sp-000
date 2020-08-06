@@ -21,6 +21,6 @@ body {
 }
 
 /* Write all remaining styles here */
-h1 {
+h1 a {
   font-family: 'Baskerville';
 }
